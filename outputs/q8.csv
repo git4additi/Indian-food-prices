@@ -1,0 +1,94 @@
+state,commodity,avg_price,price_rank
+Andaman And Nicobar,Tea (black),271.0917924528302,1
+Andaman And Nicobar,Oil (mustard),175.07275,2
+Andaman And Nicobar,Ghee (vanaspati),159.01962962962966,3
+Andhra Pradesh,Tea (black),281.17457627118637,1
+Andhra Pradesh,Oil (mustard),151.1039106145251,2
+Andhra Pradesh,Oil (groundnut),142.51570707070712,3
+Assam,Oil (groundnut),194.61777777777777,1
+Assam,Tea (black),181.74469565217393,2
+Assam,Oil (sunflower),128.10233766233767,3
+Bihar,Tea (black),255.38103448275876,1
+Bihar,Oil (groundnut),188.4305607476635,2
+Bihar,Oil (sunflower),152.55872017353573,3
+Chandigarh,Tea (black),227.92811965811964,1
+Chandigarh,Oil (groundnut),139.12076923076924,2
+Chandigarh,Oil (palm),118.8790566037736,3
+Chhattisgarh,Tea (black),290.05765765765767,1
+Chhattisgarh,Oil (groundnut),179.65989583333328,2
+Chhattisgarh,Oil (mustard),165.59371681415925,3
+Delhi,Tea (black),221.97128205128203,1
+Delhi,Oil (groundnut),171.78246376811592,2
+Delhi,Oil (sunflower),129.1298969072165,3
+Goa,Tea (black),241.61477477477482,1
+Goa,Oil (groundnut),178.14101123595506,2
+Goa,Oil (mustard),158.98766233766233,3
+Gujarat,Tea (black),265.50549242424233,1
+Gujarat,Oil (groundnut),148.2668120805369,2
+Gujarat,Oil (soybean),126.17003861003855,3
+Haryana,Tea (black),213.4181793478261,1
+Haryana,Oil (groundnut),150.06591511936344,2
+Haryana,Oil (sunflower),115.97388888888885,3
+Himachal Pradesh,Tea (black),233.44239263803686,1
+Himachal Pradesh,Oil (groundnut),167.80349206349206,2
+Himachal Pradesh,Oil (sunflower),166.56114942528734,3
+Jharkhand,Tea (black),258.7871578947369,1
+Jharkhand,Oil (groundnut),177.88599999999994,2
+Jharkhand,Oil (sunflower),157.0774537037037,3
+Karnataka,Tea (black),286.65858880778586,1
+Karnataka,Oil (mustard),164.5722434367541,2
+Karnataka,Oil (groundnut),156.9955649717515,3
+Kerala,Tea (black),204.70535087719293,1
+Kerala,Oil (groundnut),166.3139837398374,2
+Kerala,Oil (mustard),140.5805893909625,3
+Madhya Pradesh,Tea (black),247.42497326203215,1
+Madhya Pradesh,Oil (groundnut),150.56966417910442,2
+Madhya Pradesh,Oil (sunflower),128.1180962800875,3
+Maharashtra,Tea (black),242.90563157894738,1
+Maharashtra,Oil (groundnut),154.1169019607842,2
+Maharashtra,Oil (sunflower),121.15905707196026,3
+Manipur,Tea (black),263.995,1
+Manipur,Oil (soybean),179.18789473684208,2
+Manipur,Oil (sunflower),178.14888888888888,3
+Meghalaya,Tea (black),287.58265193370164,1
+Meghalaya,Oil (sunflower),148.70181818181814,2
+Meghalaya,Oil (soybean),128.4872641509434,3
+Mizoram,Tea (black),268.6525454545455,1
+Mizoram,Oil (groundnut),171.77599999999998,2
+Mizoram,Ghee (vanaspati),168.62,3
+Nagaland,Tea (black),226.18220779220778,1
+Nagaland,Oil (sunflower),172.9547169811321,2
+Nagaland,Oil (soybean),135.3371111111111,3
+Orissa,Tea (black),202.4106072106261,1
+Orissa,Oil (groundnut),180.73624999999998,2
+Orissa,Oil (sunflower),126.07538135593225,3
+Puducherry,Tea (black),265.603813559322,1
+Puducherry,Oil (groundnut),142.06087301587306,2
+Puducherry,Oil (mustard),135.6721052631579,3
+Punjab,Tea (black),226.73244186046506,1
+Punjab,Oil (groundnut),155.8040384615384,2
+Punjab,Oil (sunflower),125.16578397212541,3
+Rajasthan,Tea (black),228.35773437499995,1
+Rajasthan,Oil (groundnut),151.2037719298245,2
+Rajasthan,Oil (sunflower),127.77289398280801,3
+Sikkim,Tea (black),500.78799999999995,1
+Sikkim,Oil (sunflower),201.76878787878786,2
+Sikkim,Oil (mustard),197.36107142857142,3
+Tamil Nadu,Tea (black),243.4562750000001,1
+Tamil Nadu,Oil (groundnut),168.36505181347152,2
+Tamil Nadu,Oil (mustard),156.94640718562877,3
+Telangana,Tea (black),254.85526119402982,1
+Telangana,Oil (groundnut),145.1290707964602,2
+Telangana,Oil (sunflower),135.7357819905213,3
+Tripura,Oil (sunflower),179.05461538461535,1
+Tripura,Tea (black),171.33601694915257,2
+Tripura,Oil (palm),131.14806451612898,3
+Uttar Pradesh,Tea (black),246.42704414587348,1
+Uttar Pradesh,Oil (groundnut),156.25144578313262,2
+Uttar Pradesh,Oil (sunflower),147.93216216216206,3
+Uttarakhand,Tea (black),245.61245989304817,1
+Uttarakhand,Oil (groundnut),157.35465648854964,2
+Uttarakhand,Oil (sunflower),145.48114754098359,3
+West Bengal,Tea (black),199.33472560975613,1
+West Bengal,Oil (groundnut),159.44555133079857,2
+West Bengal,Oil (sunflower),129.4964564564566,3

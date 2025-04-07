@@ -1,0 +1,49 @@
+city_type,season,category,avg_price
+Metropolitan,Autumn,cereals and tubers,23.663690036900366
+Other,Autumn,cereals and tubers,28.16463473744943
+Metropolitan,Monsoon,cereals and tubers,27.077121019108255
+Other,Monsoon,cereals and tubers,27.334542167269294
+Metropolitan,Summer,cereals and tubers,28.940515075376887
+Other,Summer,cereals and tubers,27.08474465691793
+Metropolitan,Winter,cereals and tubers,29.21227784730911
+Other,Winter,cereals and tubers,26.58321790636754
+Metropolitan,Autumn,milk and dairy,37.40317241379311
+Other,Autumn,milk and dairy,45.356770310932795
+Metropolitan,Monsoon,milk and dairy,37.30300613496933
+Other,Monsoon,milk and dairy,45.465687468290234
+Metropolitan,Summer,milk and dairy,37.02906474820144
+Other,Summer,milk and dairy,45.66130143540668
+Metropolitan,Winter,milk and dairy,36.99626865671642
+Other,Winter,milk and dairy,45.747755308392286
+Metropolitan,Autumn,miscellaneous food,63.17900562851779
+Other,Autumn,miscellaneous food,81.0918886476823
+Metropolitan,Monsoon,miscellaneous food,62.4566851851852
+Other,Monsoon,miscellaneous food,80.66133437785601
+Metropolitan,Summer,miscellaneous food,65.3922014925373
+Other,Summer,miscellaneous food,83.63313759641716
+Metropolitan,Winter,miscellaneous food,62.124851301115235
+Other,Winter,miscellaneous food,81.77023647765891
+Metropolitan,Autumn,oil and fats,105.46684729064043
+Other,Autumn,oil and fats,123.82240940153184
+Metropolitan,Monsoon,oil and fats,102.996567164179
+Other,Monsoon,oil and fats,124.10720844055544
+Metropolitan,Summer,oil and fats,107.17260204081636
+Other,Summer,oil and fats,129.27451437604952
+Metropolitan,Winter,oil and fats,104.44171428571434
+Other,Winter,oil and fats,126.11663161182857
+Metropolitan,Autumn,pulses and nuts,83.35692307692308
+Other,Autumn,pulses and nuts,92.99366506313889
+Metropolitan,Monsoon,pulses and nuts,82.24900462962954
+Other,Monsoon,pulses and nuts,91.22812320266362
+Metropolitan,Summer,pulses and nuts,81.72578199052133
+Other,Summer,pulses and nuts,93.28789627770843
+Metropolitan,Winter,pulses and nuts,79.11086513994908
+Other,Winter,pulses and nuts,92.23735688936891
+Metropolitan,Autumn,vegetables and fruits,28.468237547892723
+Other,Autumn,vegetables and fruits,36.67844942620765
+Metropolitan,Monsoon,vegetables and fruits,28.180165562913906
+Other,Monsoon,vegetables and fruits,32.98462312925171
+Metropolitan,Summer,vegetables and fruits,19.481272727272735
+Other,Summer,vegetables and fruits,23.451075067024156
+Metropolitan,Winter,vegetables and fruits,20.007408759124093
+Other,Winter,vegetables and fruits,25.663752380952396
