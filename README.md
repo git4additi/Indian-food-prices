@@ -45,6 +45,9 @@ All the questions and queries can be viewed [here](queries.hql)
   SET hive.exec.dynamic.partition=true;
   SET hive.exec.dynamic.partition.mode=nonstrict;
 
+  -- For haversies (see case study question 15)
+  SET hive.strict.checks.cartesian.product=false;
+
   -- Insert from staging to partitioned table
   INSERT OVERWRITE TABLE food_prices PARTITION(category) 
   SELECT `date`, state, city, market, latitude, longitude, commodity, unit, price, year, month, season, category FROM staging_food_prices;
