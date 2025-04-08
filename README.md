@@ -68,4 +68,4 @@ All the questions and queries can be viewed [here](queries.hql)
   ```
 
   > **Info**  
-  > The parsed csv output of all the questions is present in the [output](output) folder
+  > The parsed csv output of all the questions is present in the [output](outputs) folder
