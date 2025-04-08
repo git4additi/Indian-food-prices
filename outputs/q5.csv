@@ -99,7 +99,6 @@ Baripada,cereals and tubers,26.589000000000002,27.28121837270347
 Haridwar,cereals and tubers,26.48780701754387,27.28121837270347
 Mirzapur (vindhyanchal),cereals and tubers,26.475256410256407,27.28121837270347
 Saran,cereals and tubers,26.252941176470582,27.28121837270347
-a.market,a.category,market_avg_price,b.overall_avg_price
 Simdega,cereals and tubers,26.162473118279568,27.28121837270347
 Sagar,cereals and tubers,26.104807692307705,27.28121837270347
 Bihar_Gaya,cereals and tubers,26.040978260869554,27.28121837270347
@@ -200,7 +199,6 @@ Rohtas (sasaram),milk and dairy,56.338095238095235,44.994641281634586
 Una,milk and dairy,56.335,44.994641281634586
 Sagar,milk and dairy,55.822,44.994641281634586
 Morena,milk and dairy,55.48888888888889,44.994641281634586
-a.market,a.category,market_avg_price,b.overall_avg_price
 Chamba,milk and dairy,55.041666666666664,44.994641281634586
 East Zone,milk and dairy,54.98500000000001,44.994641281634586
 Ayodhya,milk and dairy,54.80307692307693,44.994641281634586
@@ -301,7 +299,6 @@ Ramanathapuram,milk and dairy,42.5884,44.994641281634586
 T.Puram,milk and dairy,42.45155172413793,44.994641281634586
 Dehradun,milk and dairy,42.18134020618557,44.994641281634586
 Ernakulam,milk and dairy,42.055658914728674,44.994641281634586
-a.market,a.category,market_avg_price,b.overall_avg_price
 Bhopal,milk and dairy,41.52327433628319,44.994641281634586
 Solan,milk and dairy,41.345454545454544,44.994641281634586
 Bengaluru (east range),milk and dairy,41.08,44.994641281634586
@@ -402,7 +399,6 @@ Motihari,miscellaneous food,92.98151515151515,80.61456089291588
 Solan,miscellaneous food,92.887572815534,80.61456089291588
 Purnia,miscellaneous food,92.47125000000001,80.61456089291588
 Bellary,miscellaneous food,91.82610389610393,80.61456089291588
-a.market,a.category,market_avg_price,b.overall_avg_price
 Shivamogga,miscellaneous food,91.52885714285713,80.61456089291588
 Rudrapur,miscellaneous food,90.06504761904762,80.61456089291588
 Jhabua,miscellaneous food,90.04663366336635,80.61456089291588
@@ -503,7 +499,6 @@ Jaipur,miscellaneous food,59.35899145299143,80.61456089291588
 Delhi,miscellaneous food,58.975019607843144,80.61456089291588
 Saharsa,miscellaneous food,58.31206185567011,80.61456089291588
 Morena,miscellaneous food,58.26435897435897,80.61456089291588
-a.market,a.category,market_avg_price,b.overall_avg_price
 Guwahati,miscellaneous food,57.29974637681159,80.61456089291588
 Darbhanga,miscellaneous food,54.99598290598291,80.61456089291588
 Kanpur,miscellaneous food,52.33030769230771,80.61456089291588
@@ -604,7 +599,6 @@ Adilabad,oil and fats,145.70690607734798,124.64615797712182
 Rewa,oil and fats,145.56735537190085,124.64615797712182
 Visakhapatnam,oil and fats,145.50725352112673,124.64615797712182
 Bokaro,oil and fats,145.40977443609023,124.64615797712182
-a.market,a.category,market_avg_price,b.overall_avg_price
 Bellary,oil and fats,145.1448062015504,124.64615797712182
 Balasore,oil and fats,144.36090909090913,124.64615797712182
 Raiganj,oil and fats,144.31189189189192,124.64615797712182
@@ -705,7 +699,6 @@ Tirupathi,pulses and nuts,109.66647058823526,91.82388331176222
 Kohima,pulses and nuts,109.61894736842105,91.82388331176222
 Raiganj,pulses and nuts,109.42703125000004,91.82388331176222
 Meerut,pulses and nuts,109.30692307692306,91.82388331176222
-a.market,a.category,market_avg_price,b.overall_avg_price
 Dhavanagere,pulses and nuts,109.18010526315786,91.82388331176222
 Tumakuru,pulses and nuts,108.9712658227848,91.82388331176222
 Maharashtra_Pune,pulses and nuts,108.74080808080805,91.82388331176222
@@ -806,7 +799,6 @@ Agartala,pulses and nuts,91.25035714285715,91.82388331176222
 Mirzapur (vindhyanchal),pulses and nuts,91.18134146341467,91.82388331176222
 Ludhiana,pulses and nuts,91.12601328903656,91.82388331176222
 Motihari,pulses and nuts,90.96950495049505,91.82388331176222
-a.market,a.category,market_avg_price,b.overall_avg_price
 Hyderabad,pulses and nuts,90.9196875,91.82388331176222
 Varanasi,pulses and nuts,90.74257627118645,91.82388331176222
 Bodeli,pulses and nuts,90.5475,91.82388331176222
@@ -907,7 +899,6 @@ Araria,vegetables and fruits,31.746000000000002,29.31297070079683
 Berhampur,vegetables and fruits,31.62954545454545,29.31297070079683
 Kolkata,vegetables and fruits,31.548120805369134,29.31297070079683
 Rampurhat,vegetables and fruits,31.480377358490568,29.31297070079683
-a.market,a.category,market_avg_price,b.overall_avg_price
 Cuddalore,vegetables and fruits,31.417777777777772,29.31297070079683
 Bodeli,vegetables and fruits,31.417692307692306,29.31297070079683
 Visakhapatnam,vegetables and fruits,31.344523809523803,29.31297070079683
@@ -1008,7 +999,6 @@ Jaipur,vegetables and fruits,24.64490384615386,29.31297070079683
 Raipur,vegetables and fruits,24.609702970297025,29.31297070079683
 Jabalpur,vegetables and fruits,24.58824,29.31297070079683
 Jodhpur,vegetables and fruits,24.440718232044215,29.31297070079683
-a.market,a.category,market_avg_price,b.overall_avg_price
 Vijayapur,vegetables and fruits,24.090312499999996,29.31297070079683
 Dharwad,vegetables and fruits,23.7669540229885,29.31297070079683
 Indore,vegetables and fruits,23.7217741935484,29.31297070079683

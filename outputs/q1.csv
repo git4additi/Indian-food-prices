@@ -99,7 +99,6 @@ Ghee (vanaspati),Orissa,Autumn,101.89677777777781
 Ghee (vanaspati),Orissa,Monsoon,93.23764705882357
 Ghee (vanaspati),Orissa,Summer,102.9806363636363
 Ghee (vanaspati),Orissa,Winter,98.99452631578949
-commodity,state,season,avg_price
 Ghee (vanaspati),Puducherry,Autumn,120.90650000000001
 Ghee (vanaspati),Puducherry,Monsoon,120.99809523809525
 Ghee (vanaspati),Puducherry,Summer,121.96235294117645
@@ -200,7 +199,6 @@ Lentils,Madhya Pradesh,Autumn,91.01735042735044
 Lentils,Madhya Pradesh,Monsoon,87.97156249999999
 Lentils,Madhya Pradesh,Summer,92.07793893129772
 Lentils,Madhya Pradesh,Winter,91.85991869918695
-commodity,state,season,avg_price
 Lentils,Maharashtra,Autumn,93.76732558139537
 Lentils,Maharashtra,Monsoon,93.61678571428573
 Lentils,Maharashtra,Summer,91.12654761904763
@@ -301,7 +299,6 @@ Lentils (masur),Gujarat,Monsoon,80.65597222222226
 Lentils (masur),Gujarat,Summer,77.04297619047618
 Lentils (masur),Gujarat,Winter,75.59722222222223
 Lentils (masur),Haryana,Autumn,74.77833333333332
-commodity,state,season,avg_price
 Lentils (masur),Haryana,Monsoon,74.34565217391305
 Lentils (masur),Haryana,Summer,77.3112962962963
 Lentils (masur),Haryana,Winter,72.26638297872341
@@ -402,7 +399,6 @@ Lentils (moong),Assam,Monsoon,88.35529411764706
 Lentils (moong),Assam,Summer,95.83312500000001
 Lentils (moong),Assam,Winter,90.31363636363636
 Lentils (moong),Bihar,Autumn,96.79810344827587
-commodity,state,season,avg_price
 Lentils (moong),Bihar,Monsoon,95.87937984496122
 Lentils (moong),Bihar,Summer,99.1426119402985
 Lentils (moong),Bihar,Winter,96.04816513761472
@@ -503,7 +499,6 @@ Lentils (moong),Tripura,Monsoon,94.64833333333335
 Lentils (moong),Tripura,Summer,93.08357142857143
 Lentils (moong),Tripura,Winter,96.329375
 Lentils (moong),Uttar Pradesh,Autumn,92.16472727272728
-commodity,state,season,avg_price
 Lentils (moong),Uttar Pradesh,Monsoon,90.53119999999998
 Lentils (moong),Uttar Pradesh,Summer,97.077868852459
 Lentils (moong),Uttar Pradesh,Winter,96.76553398058255
@@ -604,7 +599,6 @@ Lentils (urad),Puducherry,Monsoon,114.00666666666669
 Lentils (urad),Puducherry,Summer,113.38375
 Lentils (urad),Puducherry,Winter,115.38277777777778
 Lentils (urad),Punjab,Autumn,101.55567567567567
-commodity,state,season,avg_price
 Lentils (urad),Punjab,Monsoon,95.46552631578948
 Lentils (urad),Punjab,Summer,105.24523809523808
 Lentils (urad),Punjab,Winter,103.35000000000001
@@ -705,7 +699,6 @@ Milk (pasteurized),Gujarat,Monsoon,49.25510638297873
 Milk (pasteurized),Gujarat,Summer,49.20978947368421
 Milk (pasteurized),Gujarat,Winter,49.24860215053764
 Milk (pasteurized),Haryana,Autumn,47.128571428571426
-commodity,state,season,avg_price
 Milk (pasteurized),Haryana,Monsoon,46.95939759036145
 Milk (pasteurized),Haryana,Summer,47.97595238095238
 Milk (pasteurized),Haryana,Winter,48.480374999999995
@@ -806,7 +799,6 @@ Oil (groundnut),Assam,Monsoon,185.0325
 Oil (groundnut),Assam,Summer,202.8475
 Oil (groundnut),Assam,Winter,198.974
 Oil (groundnut),Bihar,Autumn,186.93416666666667
-commodity,state,season,avg_price
 Oil (groundnut),Bihar,Monsoon,186.45
 Oil (groundnut),Bihar,Summer,192.06548387096777
 Oil (groundnut),Bihar,Winter,187.49880000000005
@@ -907,7 +899,6 @@ Oil (groundnut),Uttarakhand,Summer,154.0232258064516
 Oil (groundnut),Uttarakhand,Winter,161.00764705882352
 Oil (groundnut),West Bengal,Autumn,158.84701492537312
 Oil (groundnut),West Bengal,Monsoon,158.28015384615375
-commodity,state,season,avg_price
 Oil (groundnut),West Bengal,Summer,159.01606060606062
 Oil (groundnut),West Bengal,Winter,161.66400000000002
 Oil (mustard),Andaman And Nicobar,Autumn,170.9553125
@@ -1008,7 +999,6 @@ Oil (mustard),Rajasthan,Summer,106.36525641025638
 Oil (mustard),Rajasthan,Winter,103.22842465753425
 Oil (mustard),Sikkim,Autumn,200.66666666666666
 Oil (mustard),Sikkim,Monsoon,203.98166666666668
-commodity,state,season,avg_price
 Oil (mustard),Sikkim,Summer,194.9042857142857
 Oil (mustard),Sikkim,Winter,192.65444444444444
 Oil (mustard),Tamil Nadu,Autumn,153.037875
@@ -1109,7 +1099,6 @@ Oil (palm),Meghalaya,Summer,113.09655172413792
 Oil (palm),Meghalaya,Winter,107.90299999999999
 Oil (palm),Mizoram,Autumn,145.53
 Oil (palm),Mizoram,Monsoon,146.158
-commodity,state,season,avg_price
 Oil (palm),Mizoram,Summer,144.20375
 Oil (palm),Mizoram,Winter,139.12857142857143
 Oil (palm),Nagaland,Autumn,115.05
@@ -1210,7 +1199,6 @@ Oil (soybean),Kerala,Monsoon,95.83375000000001
 Oil (soybean),Kerala,Summer,92.667
 Oil (soybean),Kerala,Winter,94.8442857142857
 Oil (soybean),Madhya Pradesh,Autumn,109.54185185185186
-commodity,state,season,avg_price
 Oil (soybean),Madhya Pradesh,Monsoon,114.92469026548676
 Oil (soybean),Madhya Pradesh,Summer,115.33852173913044
 Oil (soybean),Madhya Pradesh,Winter,110.05626168224296
@@ -1311,7 +1299,6 @@ Oil (sunflower),Gujarat,Summer,127.42974025974026
 Oil (sunflower),Gujarat,Winter,126.47164383561646
 Oil (sunflower),Haryana,Autumn,111.9746875
 Oil (sunflower),Haryana,Monsoon,112.61574468085105
-commodity,state,season,avg_price
 Oil (sunflower),Haryana,Summer,122.06810126582285
 Oil (sunflower),Haryana,Winter,117.01034482758622
 Oil (sunflower),Himachal Pradesh,Autumn,161.41666666666666
@@ -1412,7 +1399,6 @@ Onions,Assam,Summer,20.144444444444446
 Onions,Assam,Winter,29.687857142857144
 Onions,Bihar,Autumn,27.525625
 Onions,Bihar,Monsoon,21.872950819672123
-commodity,state,season,avg_price
 Onions,Bihar,Summer,17.62242718446602
 Onions,Bihar,Winter,23.606120218579225
 Onions,Chandigarh,Autumn,37.33818181818182
@@ -1513,7 +1499,6 @@ Onions,Tripura,Summer,24.383333333333336
 Onions,Tripura,Winter,34.51250000000002
 Onions,Uttar Pradesh,Autumn,33.72762711864405
 Onions,Uttar Pradesh,Monsoon,26.21022099447514
-commodity,state,season,avg_price
 Onions,Uttar Pradesh,Summer,20.922822085889578
 Onions,Uttar Pradesh,Winter,27.736815286624193
 Onions,Uttarakhand,Autumn,38.15122448979592
@@ -1614,7 +1599,6 @@ Potatoes,Puducherry,Summer,25.1796
 Potatoes,Puducherry,Winter,23.808846153846154
 Potatoes,Punjab,Autumn,20.640208333333337
 Potatoes,Punjab,Monsoon,19.018125
-commodity,state,season,avg_price
 Potatoes,Punjab,Summer,14.683703703703705
 Potatoes,Punjab,Winter,13.570389610389611
 Potatoes,Rajasthan,Autumn,20.788170731707314
@@ -1715,7 +1699,6 @@ Rice,Maharashtra,Summer,24.86017045454546
 Rice,Maharashtra,Winter,25.148222222222223
 Rice,Manipur,Autumn,43.278571428571425
 Rice,Manipur,Monsoon,40.54
-commodity,state,season,avg_price
 Rice,Manipur,Summer,42.98833333333334
 Rice,Manipur,Winter,45.225
 Rice,Meghalaya,Autumn,18.96121951219512
@@ -1816,7 +1799,6 @@ Salt (iodised),Haryana,Summer,19.373678160919543
 Salt (iodised),Haryana,Winter,18.707199999999997
 Salt (iodised),Himachal Pradesh,Autumn,20.309512195121954
 Salt (iodised),Himachal Pradesh,Monsoon,19.89685393258427
-commodity,state,season,avg_price
 Salt (iodised),Himachal Pradesh,Summer,20.862247191011235
 Salt (iodised),Himachal Pradesh,Winter,20.587272727272723
 Salt (iodised),Jharkhand,Autumn,18.767045454545453
@@ -1917,7 +1899,6 @@ Sugar,Bihar,Summer,38.098558139534866
 Sugar,Bihar,Winter,37.77063218390805
 Sugar,Chandigarh,Autumn,37.474838709677414
 Sugar,Chandigarh,Monsoon,36.96944444444445
-commodity,state,season,avg_price
 Sugar,Chandigarh,Summer,36.64714285714285
 Sugar,Chandigarh,Winter,37.12695652173913
 Sugar,Chhattisgarh,Autumn,40.73555555555556
@@ -2018,7 +1999,6 @@ Sugar,Uttar Pradesh,Summer,36.01795121951219
 Sugar,Uttar Pradesh,Winter,35.12172588832487
 Sugar,Uttarakhand,Autumn,39.60078125000001
 Sugar,Uttarakhand,Monsoon,38.37616666666666
-commodity,state,season,avg_price
 Sugar,Uttarakhand,Summer,38.94857142857143
 Sugar,Uttarakhand,Winter,40.14531914893617
 Sugar,West Bengal,Autumn,35.2332258064516
@@ -2119,7 +2099,6 @@ Sugar (jaggery/gur),Punjab,Summer,43.80491228070176
 Sugar (jaggery/gur),Punjab,Winter,45.19333333333333
 Sugar (jaggery/gur),Rajasthan,Autumn,42.96731958762887
 Sugar (jaggery/gur),Rajasthan,Monsoon,41.39049504950495
-commodity,state,season,avg_price
 Sugar (jaggery/gur),Rajasthan,Summer,41.232
 Sugar (jaggery/gur),Rajasthan,Winter,41.49344086021506
 Sugar (jaggery/gur),Sikkim,Autumn,58.333333333333336
@@ -2220,7 +2199,6 @@ Tea (black),Manipur,Summer,279.6716666666667
 Tea (black),Manipur,Winter,248.0825
 Tea (black),Meghalaya,Autumn,285.796
 Tea (black),Meghalaya,Monsoon,274.45311111111107
-commodity,state,season,avg_price
 Tea (black),Meghalaya,Summer,286.2935555555556
 Tea (black),Meghalaya,Winter,303.43565217391307
 Tea (black),Mizoram,Autumn,291.303125
@@ -2321,7 +2299,6 @@ Tomatoes,Himachal Pradesh,Summer,27.08405405405405
 Tomatoes,Himachal Pradesh,Winter,28.49972222222222
 Tomatoes,Jharkhand,Autumn,39.072807017543866
 Tomatoes,Jharkhand,Monsoon,46.30803278688524
-commodity,state,season,avg_price
 Tomatoes,Jharkhand,Summer,21.453666666666667
 Tomatoes,Jharkhand,Winter,21.04533333333333
 Tomatoes,Karnataka,Autumn,29.459324324324328
@@ -2422,7 +2399,6 @@ Wheat,Chandigarh,Summer,20.6009375
 Wheat,Chandigarh,Winter,21.12793103448276
 Wheat,Chhattisgarh,Autumn,27.99514285714286
 Wheat,Chhattisgarh,Monsoon,26.810833333333335
-commodity,state,season,avg_price
 Wheat,Chhattisgarh,Summer,27.48
 Wheat,Chhattisgarh,Winter,28.821666666666662
 Wheat,Delhi,Autumn,55.91967213114755
@@ -2523,7 +2499,6 @@ Wheat,West Bengal,Summer,19.82306666666667
 Wheat,West Bengal,Winter,19.347857142857144
 Wheat flour,Andaman And Nicobar,Autumn,51.240344827586206
 Wheat flour,Andaman And Nicobar,Monsoon,51.44638888888889
-commodity,state,season,avg_price
 Wheat flour,Andaman And Nicobar,Summer,52.178636363636365
 Wheat flour,Andaman And Nicobar,Winter,48.7275
 Wheat flour,Andhra Pradesh,Autumn,35.60847826086957
@@ -2624,7 +2599,6 @@ Wheat flour,Sikkim,Summer,36.06
 Wheat flour,Sikkim,Winter,33.197500000000005
 Wheat flour,Tamil Nadu,Autumn,37.40355140186915
 Wheat flour,Tamil Nadu,Monsoon,35.52255813953488
-commodity,state,season,avg_price
 Wheat flour,Tamil Nadu,Summer,38.62464285714284
 Wheat flour,Tamil Nadu,Winter,37.226964285714295
 Wheat flour,Telangana,Autumn,35.81249999999999
