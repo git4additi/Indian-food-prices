@@ -41,13 +41,17 @@ def process(input_file: str, output_file: str) -> None:
                 continue
 
             # Parse header
-            if not header_parsed and line.startswith("+"):
-                if itr + 1 < len(lines) and lines[itr + 1].strip().startswith("|"):
-                    header_line = lines[itr + 1].strip()
-                    header = header_line[1:-1].split("|")
-                    header = [re.sub(r"^\w+\.", "", col.strip()) for col in header]
-                    itr += 3  # Skip "+", header, and next "+"
-                    header_parsed = True
+            if line.startswith("+"):
+                if not header_parsed:
+                    if itr + 1 < len(lines) and lines[itr + 1].strip().startswith("|"):
+                        header_line = lines[itr + 1].strip()
+                        header = header_line[1:-1].split("|")
+                        header = [re.sub(r"^\w+\.", "", col.strip()) for col in header]
+                        itr += 3  # Skip "+", header, and next "+"
+                        header_parsed = True
+                        continue
+                else:
+                    itr += 3
                     continue
 
             # Parse data rows
